@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sayyedasim
-- 👀 I’m interested in cpp,java,html,php
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on cpp related job
-- 📫 How to reach me 
+- 👀 I’m interested in cpp,html,php,Linux, networking
+- 🌱 I’m learned #cnn #networking
+- 💞️ I’m looking to collaborate on networking related job
+- 📫 How to reach me
 
 <!---
 sayyedasim/sayyedasim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
